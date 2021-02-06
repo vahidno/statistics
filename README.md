@@ -37,3 +37,9 @@ Confirm the results using the inverse of `CDF` function: `PPF`
 Perform forward stepwise feature selection to narrow down predictors (a.k.a. features, or independent variables) in linear regression
 
 Use k-fold cross-validation method and Root Mean Squared Error (RMSE) for evaluating and choosing regression models.
+
+## birthday.ipynb
+
+### Topic 
+
+Probablity that two persons in a group are born on the same day.
