@@ -20,7 +20,7 @@ Two solution methods are suggested:
 
 ## t_distribution.ipynb
 
-### Topic
+### Topic 1
 
 Show how t-distribution converges to normal distribution
 
@@ -29,3 +29,11 @@ Show how t-distribution converges to normal distribution
 Use Monte Carlo Integration to estimate the CDF of a t-distribution at point `a`.
 
 Confirm the results using the inverse of `CDF` function: `PPF`
+
+## forward_selection_with_statsmodel.py
+
+### Topic
+
+Perform forward stepwise feature selection to narrow down predictors (a.k.a. features, or independent variables) in linear regression
+
+Use k-fold cross-validation method and Root Mean Squared Error (RMSE) for evaluating and choosing regression models.
